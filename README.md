@@ -4,7 +4,8 @@ My Heros attends in Egypt International VEX Competition 2021 / 2022
 # Hello I AM Coach Ahmed Samir 
 I AM Robotics Instructor in Wiro Plus.
 I teaching Robotics and Electorics Courses as after school acticty in International Schools.
-My team attend VEX-ROBOTICS IQ Competition (8-15 year old for team's member).
+My team attend VEX-ROBOTICS IQ Competition (8-15 year old for team's member) and take 3rd pace
+![WhatsApp Image 2022-04-16 at 4 12 31 PM](https://user-images.githubusercontent.com/74832164/163678285-31e55f03-4929-4133-b9f1-03a4bf900a6a.jpeg)
 
 # TEAM HEROS " GOLDEN FALCONS " 
 ![275539024_151088913998084_1816422290180878225_n](https://user-images.githubusercontent.com/74832164/163677112-22d9ca9e-cba8-4c69-8fc9-1bb57e5401db.jpg)
